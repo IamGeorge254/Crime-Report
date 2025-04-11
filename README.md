@@ -40,3 +40,6 @@ Community programs to deter theft-related crimes
 Data-driven resource allocation across time and geography
 
 ## Dashboard
+You can view the full Power BI crime analysis dashboard here:
+
+[📊 View Crime Analysis Dashboard (PDF)](https://github.com/IamGeorge254/Crime-Report/blob/main/Crime%20Analysis.pdf)
