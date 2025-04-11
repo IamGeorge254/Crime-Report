@@ -26,4 +26,17 @@ Weapon-related and violent crimes are comparatively low.
 Crime severity is moderate, but certain neighborhoods exhibit consistently high crime frequency.
 
 Time-of-day and geographic data provide actionable insights for resource deployment and community engagement.
-## 
+## Final Conclusion: Washington DC Crime Analysis
+The crime landscape in Washington DC, based on the analyzed period, reveals that property crimes dominate the offense profile, with theft-related incidents accounting for the majority. Evening hours show the highest crime rates, suggesting a need for increased surveillance and law enforcement presence during this time.
+Criminal activity is geographically concentrated, with specific neighborhood clusters and blocks consistently reporting high numbers of incidents—particularly Cluster 2 and the 3100–3299 block of 14th Street NW. These areas represent critical hotspots requiring strategic intervention.
+While violent and weapon-related crimes are less frequent, they contribute significantly to the overall crime severity, warranting continued attention. The average severity index of 6.33 reflects a moderate risk level, emphasizing the importance of maintaining a balance between reactive law enforcement and proactive community engagement.
+In summary, crime prevention efforts should focus on:
+Targeted policing in high-crime neighborhoods and blocks
+
+Enhanced evening patrols
+
+Community programs to deter theft-related crimes
+
+Data-driven resource allocation across time and geography
+
+## Dashboard
